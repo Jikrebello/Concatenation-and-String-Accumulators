@@ -1,0 +1,10 @@
+E:\Visual Studio Projects\C# Intermediate Programming\Concatenation and String Accumulators\bin\Debug\Concatenation and String Accumulators.exe.config
+E:\Visual Studio Projects\C# Intermediate Programming\Concatenation and String Accumulators\bin\Debug\Concatenation and String Accumulators.exe
+E:\Visual Studio Projects\C# Intermediate Programming\Concatenation and String Accumulators\bin\Debug\Concatenation and String Accumulators.pdb
+E:\Visual Studio Projects\C# Intermediate Programming\Concatenation and String Accumulators\obj\Debug\Concatenation and String Accumulators.csprojAssemblyReference.cache
+E:\Visual Studio Projects\C# Intermediate Programming\Concatenation and String Accumulators\obj\Debug\Concatenation_and_String_Accumulators.Form1.resources
+E:\Visual Studio Projects\C# Intermediate Programming\Concatenation and String Accumulators\obj\Debug\Concatenation_and_String_Accumulators.Properties.Resources.resources
+E:\Visual Studio Projects\C# Intermediate Programming\Concatenation and String Accumulators\obj\Debug\Concatenation and String Accumulators.csproj.GenerateResource.cache
+E:\Visual Studio Projects\C# Intermediate Programming\Concatenation and String Accumulators\obj\Debug\Concatenation and String Accumulators.csproj.CoreCompileInputs.cache
+E:\Visual Studio Projects\C# Intermediate Programming\Concatenation and String Accumulators\obj\Debug\Concatenation and String Accumulators.exe
+E:\Visual Studio Projects\C# Intermediate Programming\Concatenation and String Accumulators\obj\Debug\Concatenation and String Accumulators.pdb
